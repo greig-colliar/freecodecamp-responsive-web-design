@@ -1,7 +1,7 @@
 # freecodecamp-responsive-web-design
 Portfolio work from the Responsive Web Design section of freecodecamp. 
 
-##Status - Fully completed: 300 hours
+## Status - Fully completed: 300 hours
 
 Projects:
 Tribute Page - Finished in about 10 minutes
