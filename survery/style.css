@@ -1,0 +1,87 @@
+body {
+  font-family: Sans-serif;
+  background-image: linear-gradient(to right, rgba(62,0,0,0), rgba(62,116,204,1)), url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+  background-size: cover;
+  color: #FFF;
+}
+
+#title {
+  color: #FFF;
+  text-shadow: 1px 1px black;
+  text-align: center;
+}
+
+#description {
+  color: #FFF;
+  text-shadow: 1px 1px black;
+  font-style: italic;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#border {
+  background: rgba(25, 38, 89, 0.8);
+  margin: auto;
+  width: 55%;
+  padding: 2em;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=email], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=number], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 30px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 21px;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+#radio {
+  float: left;
+}
+
+#type {
+  float: left;
+}
