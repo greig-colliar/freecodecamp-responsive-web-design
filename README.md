@@ -7,5 +7,5 @@ Projects:
 - Tribute Page - Finished 
 - Survey Form - Finished 
 - Product Landing Form - Finished
-- Technical Documentation Page - Finished
+- JavaScript Technical Documentation - Finished
 - Personal Portfolio Page - Finished
