@@ -4,8 +4,8 @@ Portfolio work from the Responsive Web Design section of freecodecamp.
 ## Status - Completed: 300 hour course
 
 Projects:
-- Tribute Page - Finished in about 10 minutes
-- Survey Form - Finished in 10-20 minutes
+- Tribute Page - Finished 
+- Survey Form - Finished 
 - Product Landing Form - Finished
 - Technical Documentation Page - Finished
 - Personal Portfolio Page - Finished
